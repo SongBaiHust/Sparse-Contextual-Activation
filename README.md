@@ -1,7 +1,7 @@
 # Sparse Contextual Activation for Efficient Visual Re-ranking
 The matlab implementation of Sparse Contextual Activation (SCA) published in IEEE Transactions on Image Processing (TIP) 2016. SCA is a very efficient and effective re-ranking algorithm for unsupervised object retrieval. 
 ## Usage
-In the demo code, simply replace "d" with your own input distance matrix. 
+In the demo code, simply replace "d" with your own input distance matrix, and specify a proper value for k1 and k2. 
 ## Citation
 Please cite this paper if it helps your research:
 ```
