@@ -7,7 +7,7 @@ In the demo code, simply replace "d" with your own input distance matrix.
 ## Citation
 Please cite this paper if it helps your research:
 
-```javascript
+```
 @article{SCA,
   title={Sparse contextual activation for efficient visual re-ranking},
   author={Bai, Song and Bai, Xiang},
